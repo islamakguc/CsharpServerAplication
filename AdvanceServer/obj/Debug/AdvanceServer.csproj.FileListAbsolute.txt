@@ -1,0 +1,10 @@
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\bin\Debug\AdvanceServer.exe.config
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\bin\Debug\AdvanceServer.exe
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\bin\Debug\AdvanceServer.pdb
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\bin\Debug\NetworksApi.dll
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\obj\Debug\AdvanceServer.csprojResolveAssemblyReference.cache
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\obj\Debug\AdvanceServer.Form1.resources
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\obj\Debug\AdvanceServer.Properties.Resources.resources
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\obj\Debug\AdvanceServer.csproj.GenerateResource.Cache
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\obj\Debug\AdvanceServer.exe
+C:\Users\İslamAkgüç\Documents\Visual Studio 2015\Projects\AdvanceServer\AdvanceServer\obj\Debug\AdvanceServer.pdb
